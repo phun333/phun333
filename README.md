@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🌱 im on track for learning more about Mobile App Development.<br>🎓  im currently studying software engineering.</p>
+<p align="left">🎓  im currently studying software engineering.<br>🌱 im on track for learning more about Mobile App Development.</p>
 
 ###
 
