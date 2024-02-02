@@ -2,6 +2,6 @@
 
 ###
 
-<p align="left">🎓  im currently studying software engineering.<br>🌱 im on track for learning more about Python.</p>
+<p align="left">🎓  im currently studying software engineering.<br>🌱 im on track for learning more about Python and Java.</p>
 
 
