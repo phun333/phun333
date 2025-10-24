@@ -1,6 +1,6 @@
 
 <h6> 
-    <a href="https://www.aliselvet.xyz/resume.pdf">cv</a> • <a href="https://www.aliselvet.xyz/blog">blog</a> • <a href="mailto:maliselvet823@gmail.com">mail</a> • <a href="https://scoutlly.aliselvet.xyz">scoutly</a> • <a href="https://www.linkedin.com/in/ali-selvet/">linkedin</a> • <a href="https://myanimelist.net/profile/shiroxyz">mal</a> 
+    <a href="https://www.aliselvet.xyz/resume.pdf">cv</a> • <a href="https://www.aliselvet.xyz/blog">blog</a> • <a href="mailto:maliselvet823@gmail.com">mail</a> • <a href="https://scoutly.aliselvet.xyz">scoutly</a> • <a href="https://www.linkedin.com/in/ali-selvet/">linkedin</a>
 <br>
     developer and researcher @ <a href="https://github.com/wiredium">wiredium</a>
 <br>
