@@ -1,6 +1,6 @@
 
 <h6> 
-    <a href="https://www.aliselvet.xyz/resume.pdf">cv</a> • <a href="https://www.aliselvet.xyz/blog">blog</a> • <a href="mailto:maliselvet823@gmail.com">mail</a> • <a href="https://scoutly.aliselvet.xyz">scoutly</a> • <a href="https://cafe.aliselvet.xyz/">cafe</a> • <a href="https://www.linkedin.com/in/ali-selvet/">linkedin</a>
+    <a href="https://www.aliselvet.xyz/resume.pdf">cv</a> • <a href="https://www.aliselvet.xyz/blog">blog</a> • <a href="mailto:maliselvet823@gmail.com">mail</a> • <a href="https://www.linkedin.com/in/ali-selvet/">linkedin</a>
 <br>
     part-time engineer @ <a href="https://wraithesports.com/">wraith esports</a>
 <br>
