@@ -2,7 +2,7 @@
 <h6> 
     <a href="https://www.aliselvet.xyz/resume.pdf">cv</a> • <a href="https://www.aliselvet.xyz/blog">blog</a> • <a href="mailto:maliselvet823@gmail.com">mail</a> • <a href="https://www.linkedin.com/in/ali-selvet/">linkedin</a>
 <br>
-    part-time engineer @ <a href="https://wraithesports.com/">wraith esports</a>
+    software engineer @ <a href="https://wraithesports.com/">wraith esports</a>
 <br>
     developer and researcher @ <a href="https://github.com/wiredium">wiredium</a>
 <br>
