@@ -6,11 +6,12 @@
 <br>
     developer and researcher @ <a href="https://github.com/wiredium">wiredium</a>
 <br>
-    ex sde intern @ <a href="https://www.basarsoft.com.tr/">basarsoft</a>
-<br>
-    ex frontend intern @ <a href="https://www.bilicisoft.com/">bilicisoft</a>
-<br>
 <br>
      im always open to a chat, whether you have a question, want to discuss a project or just want to say hi, my inbox is always open: <a href="mailto:mehmetali@sel.vet">mehmetali@sel.vet</a>
 </h6>
-<p align="left"><sub><i>lets all love lain</i></sub></p>
+<p align="left"><sub><i>lets all love lain</i></sub></p> 
+<p align="left"><img width="80" height="64" alt="letsalllovelain" src="https://github.com/user-attachments/assets/444e980e-e511-4773-b899-bdda17c2cdb4" /></p>
+
+
+
+
